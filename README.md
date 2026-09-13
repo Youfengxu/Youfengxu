@@ -49,4 +49,10 @@ Engineering Award).
 Earlier, quantum-dot photovoltaics at MIT: *Heterojunction Photovoltaics Using Printed Colloidal Quantum Dots as a
 Photosensitive Layer*, Nano Letters 9, 860–863 (2009).
 
+### Also
+
+Gadgets, and taking things apart. A three-node homelab serving quantised models over a federated endpoint, which is
+where most of the research above actually runs — the local models, the reasoning traces, the fine-tuning
+experiments. Smart glasses, and the occasional game written for them.
+
 [email](mailto:youfengx@gmail.com)
