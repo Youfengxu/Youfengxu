@@ -46,8 +46,8 @@ public sector — including standing up a digital defence command and owning pro
 analytics platform used by around a hundred analysts across three ministries (Defence Technology Prize 2025, Team
 Engineering Award).
 
-Earlier, quantum-dot photovoltaics at MIT: *Heterojunction Photovoltaics Using Printed Colloidal Quantum Dots as a
-Photosensitive Layer*, Nano Letters 9, 860–863 (2009).
+Earlier, quantum-dot photovoltaics at MIT: [*Heterojunction Photovoltaics Using Printed Colloidal Quantum Dots as a
+Photosensitive Layer*](https://doi.org/10.1021/nl803760j), Nano Letters 9, 860–863 (2009).
 
 ### Also
 
